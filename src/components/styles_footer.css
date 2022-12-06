@@ -1,0 +1,35 @@
+.footer-wrapper {
+    background-color: black;
+    display: flex;
+  }
+  
+  .footer-wrapper > img {
+    height: 90px;
+  }
+  
+  .footer-title {
+    color: aliceblue;
+    margin-top: 15px;
+  }
+
+  .footer-tanggal {
+    color: aliceblue;
+    margin: 15px;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 300px;
+
+  }
+
+  .navigation {
+    display: flex;
+    margin-left: auto;
+  }
+  
+  .navigation > button {
+    margin: 20px 100px 0 0;
+    font-size: 20px;
+    height: 30px;
+    width: 100px;
+  }

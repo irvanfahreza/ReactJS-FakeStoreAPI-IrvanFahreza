@@ -1,0 +1,9 @@
+.content-wrapper {
+  color: green;
+  border: 1px solid red;
+}
+
+.email-wrapper {
+  justify-content: flex-start;
+  font-size: 20px;
+}

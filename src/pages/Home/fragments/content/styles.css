@@ -1,0 +1,9 @@
+.content-wrapper {
+  color: green;
+  border: 1px solid red;
+}
+
+.content-mid {
+  margin: 100;
+  text-align: "center";
+}
